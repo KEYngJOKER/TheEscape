@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 编译输出
+*.exe
+*.obj
+*.o
+*.out
+*.log
+/build/
+Debug/
+Release/
